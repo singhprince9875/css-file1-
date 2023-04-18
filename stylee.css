@@ -1,0 +1,16 @@
+*{ margin: 0;
+  padding: 0;
+ box-sizing: border-box;}
+ .container{
+    max-width:900px;
+    margin:0 auto
+ }
+ .apply_box{
+    max-width: 600px;
+    padding: 20px;
+    background-color: rgb(250, 215, 227);
+    margin: 0 auto;
+    margin-top:50px;
+    box-shadow: 4px 3px 6px rgba(231, 16, 16, 0.1);
+    border-radius: 10px;
+ }
